@@ -14,10 +14,12 @@
     "author": "Sergey Sudakov",
     "license": "ISC",
     "devDependencies": {
+        "class-validator": "^0.12.2",
         "svelte": "^3.26.0",
         "typescript": "^4.0.3"
     },
     "dependencies": {
-        "@types/node": "^14.11.2"
+        "@types/node": "^14.11.2",
+        "class-transformer": "^0.3.1"
     }
 }
